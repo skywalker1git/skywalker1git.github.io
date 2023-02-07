@@ -4,25 +4,20 @@
 
 title: Sameer Rajesh
 first_name: Sameer
-middle_name: 
+middle_name:
 last_name: Rajesh
 email: sameervikrajesh@gmail.com
-
-
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Sameer Rajesh
+  Sameer's Website
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Further Design Credits to Dhruva Karkada.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Further Design Credits go to Dhruva Karkada
 keywords: sameer-rajesh, biophysics, neuroscience  # add your own keywords or leave empty
-
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: turtle.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-
-
-repository: skywalker1git/skywalker1git.github.io
+repository: skywalker1git.github.io
 url: https://skywalker1git.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
@@ -99,7 +94,7 @@ facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  Thanks for visiting! I'd love to hear from you, whether on physics, biology, or other fun things!
+  I'd love to hear if you've found anything useful or interesting! (Or, if you just wanna say hi.)
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -115,7 +110,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: blog
+blog_name: musings
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: views are mine alone, disclaimer, etc
 permalink: /blog/:year/:title/
@@ -182,7 +177,6 @@ keep_files:
   - .git
 
 # Plug-ins
-
 plugins:
   - jekyll-archives
   - jekyll-diagrams
@@ -350,4 +344,5 @@ medium_zoom:
 
 
 # Custom shit
-livereload: true 
+livereload: true
+
