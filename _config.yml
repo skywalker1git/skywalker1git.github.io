@@ -182,7 +182,7 @@ keep_files:
   - .git
 
 # Plug-ins
->>>>>>> Stashed changes
+
 plugins:
   - jekyll-archives
   - jekyll-diagrams
