@@ -8,11 +8,7 @@ middle_name:
 last_name: Rajesh
 email: sameervikrajesh@gmail.com
 
-description: >- # this means to ignore newlines until "baseurl:"
-  Helloooooo
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://skywalker1git.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-=======
+
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Sameer Rajesh
 footer_text: >
@@ -25,9 +21,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: turtle.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 
-# Build settings
-theme: minima
-=======
+
 repository: skywalker1git/skywalker1git.github.io
 url: https://skywalker1git.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
