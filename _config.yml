@@ -28,7 +28,7 @@ url: "https://skywalker1git.github.io" # the base hostname & protocol for your s
 github_username: skywalker1git
 
 # Build settings
-theme: midnight
+theme: minima
 plugins:
   - jekyll-feed
 
