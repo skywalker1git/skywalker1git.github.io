@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research/
-title: research
+permalink: /physinbio/
+title: Physics in Biology
 nav: true
 nav_order: 1
 ---

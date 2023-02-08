@@ -11,7 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Sameer's Website
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Further Design Credits go to Dhruva Karkada
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Additionally, extensive design credits and thanks for support go to Dhruva Karkada
 keywords: sameer-rajesh, biophysics, neuroscience  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -94,7 +94,7 @@ facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  I'd love to hear if you've found anything useful or interesting! (Or, if you just wanna say hi.)
+  Thanks for visiting! Drop me a note, I'd love to hear from you!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -111,7 +111,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: musings
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title: musings # your blog must have a title for it to be displayed in the nav bar
 blog_description: views are mine alone, disclaimer, etc
 permalink: /blog/:year/:title/
 
@@ -222,7 +222,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['science', 'essay', 'art', 'outreach', 'misc'] # this tags will be dispalyed on the front page of your blog
+display_tags: ['biology', 'physics', 'medicine', 'outreach', 'random'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
