@@ -16,7 +16,7 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
-    gem "github-pages", "~> 227"
+    gem "github-pages", "~> 228"
 end
 group :other_plugins do
     gem 'httparty'
