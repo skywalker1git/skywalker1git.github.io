@@ -17,8 +17,8 @@ keywords: sameer-rajesh, biophysics, neuroscience  # add your own keywords or le
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: turtle.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-repository: skywalker1git.github.io
-url: https://skywalker1git.github.io # the base hostname & protocol for your site
+repository: svrajesh.github.io
+url: https://svrajesh.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -67,7 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: skywalker1git # your GitHub user name
+github_username: svrajesh # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username:  # your Twitter handle
 linkedin_username: sameer-rajesh # your LinkedIn user name
