@@ -111,8 +111,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: musings
-blog_nav_title: musings # your blog must have a title for it to be displayed in the nav bar
-blog_description: views are mine alone, disclaimer, etc
+blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+blog_description: Welcome to my blog! Views are mine alone. Posts may be largely technical in nature, but occasionally you may stumble upon my random thoughts about life here.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -222,7 +222,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['biology', 'physics', 'medicine', 'outreach', 'random'] # this tags will be dispalyed on the front page of your blog
+display_tags: ['biology', 'physics','neuroscience', 'medicine', 'outreach', 'random'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
