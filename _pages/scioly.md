@@ -35,6 +35,6 @@ If you are currently involved in Science Olympiad in any capacity (student, pare
 * [2021 MIT Protein Modeling](https://drive.google.com/drive/folders/1fPoX_HXDPhQK2kg9eWf7LF2p0TnBRZ4D)
 * [2021 Golden Gate Biophysics (Trial)](https://drive.google.com/drive/folders/1cDMm-Mv_yC_WAxbeMWJkJ-c-KUh5o6Tp)
 
-* [2020 UT Austin Protein Modeling] (https://drive.google.com/drive/folders/1GcPW2yNuNHdfcNVKtY8OmTVVAuxvEqho?usp=share_link)
+* [2020 UT Austin Protein Modeling](https://drive.google.com/drive/folders/1GcPW2yNuNHdfcNVKtY8OmTVVAuxvEqho?usp=share_link)
 * [2020 Golden Gate Protein Modeling](https://drive.google.com/drive/folders/18EnIKICDAezJn46wcEiRVFFzQzQU8_-Y)
 
