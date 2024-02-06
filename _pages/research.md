@@ -9,7 +9,7 @@ nav_order: 1
 ----
 I've been interested in therapeutic strategies for Parkinson's Disease for years, and my interest in physics coupled to that and brought me to neuromodulation in college. I became deeply interested in how we can modulate the electrophysiology of the brain, especially after taking a course on [neural biophysics](https://mcb.berkeley.edu/courses/syllabi/mcb166_sp2014.pdf) and joining the publications division of [Neurotech@Berkeley](https://neurotech.berkeley.edu/). 
 
-After graduating, I joined Dr. Sameer Sheth's [lab](https://www.bcm.edu/research/faculty-labs/functional-and-cognitive-neurophysiology-laboratory) at Baylor College of Medicine in Houston, Texas. Here, I work with physicians, post-doctoral scientists, and medical and graduate students to identify, quantify, and further analyze biomarkers for disorders such as Obsessive-Compulsive Disorder (OCD). I hope to make small dents in the massive world of deep brain stimulation so that the medical community can advance therapy for patients of advanced, debilitating psychiatric and neurological disorders.
+After graduating, I joined [Dr. Sameer Sheth's](https://www.bcm.edu/research/faculty-labs/functional-and-cognitive-neurophysiology-laboratory) lab at Baylor College of Medicine in Houston, Texas. There, I worked on identifying, quantifying, and analyzing biomarkers for disorders such as Obsessive-Compulsive Disorder (OCD) and Depression. Recently, I've been working with [Dr. Nader Pouratian's](https://labs.utsouthwestern.edu/pouratian-lab) and [Dr. Bradley Lega's](https://labs.utsouthwestern.edu/texas-computational-memory-lab) groups, continuing investigations into the electrophysiology of depression and memory.
 
 *****
 *****
